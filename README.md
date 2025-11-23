@@ -4,13 +4,13 @@
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Research Questions](#research-questions)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Analysis & Findings](#analysis-findings)
-- [Technologies Used](#technologies-used)
-- [Conclusion](#conclusion)
+- [Overview](#🎯-overview)
+- [Research Questions](#❓-research-questions)
+- [Dataset](#📊-dataset)
+- [Installation](#🚀-installation)
+- [Analysis & Findings](#📈-analysis-and-findings)
+- [Technologies Used](#🛠️-technologies-used)
+- [Conclusion](#🎯-conclusion)
 
 
 
@@ -160,7 +160,7 @@ jupyter>=1.0.0
 ```
 
 
-## 📈 Analysis & Findings
+## 📈 Analysis and Findings
 
 
 **1. Industry Distribution**

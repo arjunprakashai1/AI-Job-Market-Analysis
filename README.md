@@ -165,7 +165,7 @@ jupyter>=1.0.0
 
 **1. Industry Distribution**
 
-![Top 5 Industries with highest Job Postings](Visuals\Industry_distribution.png)
+![Top 5 Industries with highest Job Postings](Visuals/Industry_distribution.png)
 
 ### Key Insights:
 
@@ -176,7 +176,7 @@ jupyter>=1.0.0
 
 **2. Salary Analysis**
 
-![Job Salaries](Visuals\Job_salary.png)
+![Job Salaries](Visuals/Job_salary.png)
 
 ### Key Insights:
 
@@ -224,7 +224,7 @@ plt.show()
 ```
 **Visualization:**
 
-![Skills](Visuals\Skills.png)
+![Skills](Visuals/Skills.png)
 
 ### Key Insights:
 
@@ -266,7 +266,7 @@ plt.show()
 ```
 **Visualization:**
 
-![Experience level and company size](Visuals\exp_lvl_comp_size.png)
+![Experience level and company size](Visuals/exp_lvl_comp_size.png)
 
 ### Key Insights:
 #### 💼Experience Level Impact (Top Chart)
@@ -304,7 +304,7 @@ plt.xlabel('Tool Count')
 ```
 **Visualization :**
 
-![Most commonly preferred tools and technologies](Visuals\Tools_preferred.png)
+![Most commonly preferred tools and technologies](Visuals/Tools_preferred.png)
 
 ### Key Insights:
 - **Python is Non-Negotiable:** At nearly **95%** preference, Python is the indispensable, mandatory foundation for all AI/Data Science work.
@@ -342,7 +342,7 @@ plt.show()
 ```
 **Visualziation :**
 
-![Job posting patterns over time](Visuals\posting_trend.png)
+![Job posting patterns over time](Visuals/posting_trend.png)
 
 ### Key Insights:
 - **Peak Hiring Season:** The highest volume of job postings occurs during the late summer and early fall months, with the **August** peak showing the highest count of the entire year. This suggests the optimal time for job searching is leading up to or during this period.
